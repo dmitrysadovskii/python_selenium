@@ -1,4 +1,4 @@
-from methods.BaseApp import BasePage
+from pages.BaseApp import BasePage
 
 
 def test_check_browser_open(browser):
